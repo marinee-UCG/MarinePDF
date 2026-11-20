@@ -1,0 +1,13 @@
+pymupdf
+sentence-transformers
+sqlalchemy
+psycopg[binary]
+pgvector
+pydantic-settings
+fastapi
+uvicorn[standard]
+groq
+streamlit
+requests
+pytest
+httpx
