@@ -64,7 +64,7 @@ flowchart LR
 1. Clone the repository and create your `.env`:
 
    ```bash
-   git clone https://github.com/<your-username>/MarinePDF.git
+   git clone https://github.com/marinee-UCG/MarinePDF.git
    cd MarinePDF
    cp .env.example .env
    ```
@@ -138,3 +138,7 @@ Any text-based PDF manual can be ingested with the same command. Section codes a
 - **Learning from experience:** adding past defect reports and engineers' notes next to the manual, so answers include what actually worked on board.
 
 The long-term goal is a complete marine engineer assistant for the engine room.
+
+## License
+
+[MIT](LICENSE). The engine manual is not part of this repository and remains the property of its publisher.
